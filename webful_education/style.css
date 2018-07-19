@@ -311,7 +311,7 @@ Top bar CSS Ends
 	-webkit-transform:translateZ(0);
 }
 .header .logo img {
-	height:40px;
+	height:100px;
 	width:auto; 
 }
 .search-wrap a {
@@ -322,10 +322,10 @@ Top bar CSS Ends
 	margin-bottom:0px; 
 }
 .top-bar {
-	padding:0px; 
+	padding:30px; 
 	width:calc(100% - 20px);
 	float:left;
-	background-color:transparent;
+	background-color:#7d97a5;
 }
 .top-bar ul {
 	margin:0px;
